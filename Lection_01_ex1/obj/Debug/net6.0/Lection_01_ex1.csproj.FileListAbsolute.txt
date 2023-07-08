@@ -1,0 +1,15 @@
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\bin\Debug\net6.0\Lection_01_ex1.exe
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\bin\Debug\net6.0\Lection_01_ex1.deps.json
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\bin\Debug\net6.0\Lection_01_ex1.runtimeconfig.json
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\bin\Debug\net6.0\Lection_01_ex1.dll
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\bin\Debug\net6.0\Lection_01_ex1.pdb
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.csproj.AssemblyReference.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.AssemblyInfoInputs.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.AssemblyInfo.cs
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.csproj.CoreCompileInputs.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.dll
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\refint\Lection_01_ex1.dll
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.pdb
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\Lection_01_ex1.genruntimeconfig.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex1\obj\Debug\net6.0\ref\Lection_01_ex1.dll
