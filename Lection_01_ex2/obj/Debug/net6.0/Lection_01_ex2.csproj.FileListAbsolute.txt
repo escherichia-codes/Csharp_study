@@ -1,0 +1,15 @@
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\bin\Debug\net6.0\Lection_01_ex2.exe
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\bin\Debug\net6.0\Lection_01_ex2.deps.json
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\bin\Debug\net6.0\Lection_01_ex2.runtimeconfig.json
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\bin\Debug\net6.0\Lection_01_ex2.dll
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\bin\Debug\net6.0\Lection_01_ex2.pdb
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.csproj.AssemblyReference.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.AssemblyInfoInputs.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.AssemblyInfo.cs
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.csproj.CoreCompileInputs.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.dll
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\refint\Lection_01_ex2.dll
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.pdb
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\Lection_01_ex2.genruntimeconfig.cache
+C:\Users\soop_pc\Documents\Учеба\04_CS\Lection_01_ex2\obj\Debug\net6.0\ref\Lection_01_ex2.dll
