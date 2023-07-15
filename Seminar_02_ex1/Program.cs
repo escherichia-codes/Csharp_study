@@ -1,4 +1,6 @@
-﻿Console.Write("Введите число: ");
+﻿// Заполнение рандомными числами массива заданной длины
+
+Console.Write("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] nArray = new int[n];
 for (int i = 0; i < nArray.Length; i++)
