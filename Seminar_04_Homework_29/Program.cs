@@ -1,9 +1,13 @@
-﻿int[] randomMassive = new int[8]; // Число элементов массива фиксированное
-
-for (int i = 0; i < randomMassive.Length; i++)
+﻿int[] fill(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
 {
     Console.Write($"Введите {i+1} элемент массива: ");
-    randomMassive[i] = Convert.ToInt32(Console.ReadLine());
+    array[i] = Convert.ToInt32(Console.ReadLine());
+}
+return array;
 }
 
+int[] randomMassive = new int[8]; // Число элементов массива фиксированное
+fill(randomMassive);
 Console.WriteLine($"[{string.Join(", ", randomMassive)}]");
