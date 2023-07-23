@@ -8,16 +8,16 @@ void FillArray(int[] array)
     }
 }
 
-void PrintArray(int[] array2)
-{
-    int j = 0;
-    while (j < array2.Length)
-    {
-        Console.Write($"{array2[j]} ");
-        j++;
-    }
-    Console.WriteLine();
-}
+// void PrintArray(int[] array2)
+// {
+//     int j = 0;
+//     while (j < array2.Length)
+//     {
+//         Console.Write($"{array2[j]} ");
+//         j++;
+//     }
+//     Console.WriteLine();
+// }
 
 int CountEven(int[] array3)
 {
@@ -37,6 +37,7 @@ int Length = Convert.ToInt32(Console.ReadLine());
 int[] arr = new int[Length];
 
 FillArray(arr);
-PrintArray(arr);
+//PrintArray(arr);
+Console.WriteLine($"[{string.Join(", ", arr)}]");
 
 Console.WriteLine($"Число четных элементов равно {CountEven(arr)}");

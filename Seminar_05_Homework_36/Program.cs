@@ -8,16 +8,16 @@ void FillArray(int[] array)
     }
 }
 
-void PrintArray(int[] array2)
-{
-    int j = 0;
-    while (j < array2.Length)
-    {
-        Console.Write($"{array2[j]} ");
-        j++;
-    }
-    Console.WriteLine();
-}
+// void PrintArray(int[] array2)
+// {
+//     int j = 0;
+//     while (j < array2.Length)
+//     {
+//         Console.Write($"{array2[j]} ");
+//         j++;
+//     }
+//     Console.WriteLine();
+// }
 
 int SumOddPositions(int[] array3) // Нечетные позиции соответствуют четным индексам
 {
@@ -37,7 +37,8 @@ int Length = Convert.ToInt32(Console.ReadLine());
 int[] arr = new int[Length];
 
 FillArray(arr);
-PrintArray(arr);
+// PrintArray(arr);
+Console.WriteLine($"[{string.Join(", ", arr)}]");
 
 Console.WriteLine($"Сумма элементов на нечетных позициях равна {SumOddPositions(arr)}");
 

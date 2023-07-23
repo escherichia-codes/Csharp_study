@@ -8,16 +8,16 @@ void FillArray(double[] array)
     }
 }
 
-void PrintArray(double[] array2)
-{
-    int j = 0;
-    while (j < array2.Length)
-    {
-        Console.Write($"{array2[j]} ");
-        j++;
-    }
-    Console.WriteLine();
-}
+// void PrintArray(double[] array2)
+// {
+//     int j = 0;
+//     while (j < array2.Length)
+//     {
+//         Console.Write($"{array2[j]} ");
+//         j++;
+//     }
+//     Console.WriteLine();
+// }
 
 double FindMinMax(double[] array3)
 {
@@ -39,6 +39,7 @@ int Length = Convert.ToInt32(Console.ReadLine());
 double[] arr = new double[Length];
 
 FillArray(arr);
-PrintArray(arr);
+// PrintArray(arr);
+Console.WriteLine($"[{string.Join(", ", arr)}]");
 
 Console.WriteLine($"Разница между максимальным и минимальным элементом равна {FindMinMax(arr)}");
