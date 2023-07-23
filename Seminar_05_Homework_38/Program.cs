@@ -42,4 +42,4 @@ FillArray(arr);
 // PrintArray(arr);
 Console.WriteLine($"[{string.Join(", ", arr)}]");
 
-Console.WriteLine($"Разница между максимальным и минимальным элементом равна {FindMinMax(arr)}");
+Console.WriteLine($"Разница между максимальным и минимальным элементом равна {Math.Round(FindMinMax(arr), 2)}");
